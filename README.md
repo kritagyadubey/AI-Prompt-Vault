@@ -278,20 +278,20 @@ NEGATIVE: Exclude [e.g., "flying cars, dystopian pollution, overcrowded streets"
 
 | Category | Description | Enhancers |
 |----------|-------------|:---------:|
-| [**Universal**](AI%20PROMPT%20ENHANCER/Universal/) | Domain-adaptive enhancers that work across any task | **6** |
-| [**Coding & Development**](AI%20PROMPT%20ENHANCER/Coding%20and%20Development/) | Web apps, APIs, databases, DevOps, mobile, security, code quality | **15** |
-| [**Writing & Content**](AI%20PROMPT%20ENHANCER/Writing%20and%20Content/) | Blog posts, copywriting, technical writing, scripts, emails | **15** |
-| [**Research & Analysis**](AI%20PROMPT%20ENHANCER/Research%20and%20Analysis/) | Literature reviews, market research, competitive analysis, trends | **12** |
-| [**Image Generation & Creative**](AI%20PROMPT%20ENHANCER/Image%20Generation%20and%20Creative/) | Photorealism, digital art, logos, characters, film, UI design | **12** |
-| [**Business & Strategy**](AI%20PROMPT%20ENHANCER/Business%20and%20Strategy/) | Business plans, pitch decks, fundraising, competitive analysis | **12** |
-| [**Education & Learning**](AI%20PROMPT%20ENHANCER/Education%20and%20Learning/) | Course design, tutoring, assessments, workshops, skill development | **10** |
-| [**Productivity & Planning**](AI%20PROMPT%20ENHANCER/Productivity%20and%20Planning/) | Project planning, goal setting, workflows, sprints, roadmaps | **10** |
-| [**Technical & Engineering**](AI%20PROMPT%20ENHANCER/Technical%20and%20Engineering/) | Systems, cloud, IoT, infrastructure, CI/CD, monitoring | **10** |
-| [**Data & Analytics**](AI%20PROMPT%20ENHANCER/Data%20and%20Analytics/) | Pipelines, dashboards, SQL, ETL, A/B testing, BI | **10** |
-| [**AI & Machine Learning**](AI%20PROMPT%20ENHANCER/AI%20and%20Machine%20Learning/) | ML models, LLM apps, NLP, MLOps, AI ethics, research | **8** |
-| [**Health & Science**](AI%20PROMPT%20ENHANCER/Health%20and%20Science/) | Clinical research, medical writing, public health, biotech | **8** |
-| [**Marketing & SEO**](AI%20PROMPT%20ENHANCER/Marketing%20and%20SEO/) | SEO, ad copy, email marketing, landing pages, branding | **8** |
-| [**Legal & Compliance**](AI%20PROMPT%20ENHANCER/Legal%20and%20Compliance/) | Contracts, compliance, privacy, IP, regulatory filings | **6** |
+| [**Universal**](Universal/) | Domain-adaptive enhancers that work across any task | **6** |
+| [**Coding & Development**](Coding%20and%20Development/) | Web apps, APIs, databases, DevOps, mobile, security, code quality | **15** |
+| [**Writing & Content**](Writing%20and%20Content/) | Blog posts, copywriting, technical writing, scripts, emails | **15** |
+| [**Research & Analysis**](Research%20and%20Analysis/) | Literature reviews, market research, competitive analysis, trends | **12** |
+| [**Image Generation & Creative**](Image%20Generation%20and%20Creative/) | Photorealism, digital art, logos, characters, film, UI design | **12** |
+| [**Business & Strategy**](Business%20and%20Strategy/) | Business plans, pitch decks, fundraising, competitive analysis | **12** |
+| [**Education & Learning**](Education%20and%20Learning/) | Course design, tutoring, assessments, workshops, skill development | **10** |
+| [**Productivity & Planning**](Productivity%20and%20Planning/) | Project planning, goal setting, workflows, sprints, roadmaps | **10** |
+| [**Technical & Engineering**](Technical%20and%20Engineering/) | Systems, cloud, IoT, infrastructure, CI/CD, monitoring | **10** |
+| [**Data & Analytics**](Data%20and%20Analytics/) | Pipelines, dashboards, SQL, ETL, A/B testing, BI | **10** |
+| [**AI & Machine Learning**](AI%20and%20Machine%20Learning/) | ML models, LLM apps, NLP, MLOps, AI ethics, research | **8** |
+| [**Health & Science**](Health%20and%20Science/) | Clinical research, medical writing, public health, biotech | **8** |
+| [**Marketing & SEO**](Marketing%20and%20SEO/) | SEO, ad copy, email marketing, landing pages, branding | **8** |
+| [**Legal & Compliance**](Legal%20and%20Compliance/) | Contracts, compliance, privacy, IP, regulatory filings | **6** |
 
 ### Total: 142 Prompt Enhancers
 
@@ -305,7 +305,7 @@ The **Universal** category is the heart of this library. These 6 enhancers work 
 <tr>
 <td width="50%" valign="top">
 
-### <a href="AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer.md">Universal Enhancer</a>
+### <a href="Universal/Universal%20Enhancer.md">Universal Enhancer</a>
 
 The **default choice**. Analyzes the prompt, determines the task type, and applies only the relevant enhancement dimensions. Works across coding, writing, research, business, creative, and more.
 
@@ -314,7 +314,7 @@ The **default choice**. Analyzes the prompt, determines the task type, and appli
 </td>
 <td width="50%" valign="top">
 
-### <a href="AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer%20-%20Maximum%20Detail.md">Maximum Detail</a>
+### <a href="Universal/Universal%20Enhancer%20-%20Maximum%20Detail.md">Maximum Detail</a>
 
 The **most thorough** variant. Produces the most exhaustive, complete version of any prompt. Leaves no aspect unspecified.
 
@@ -325,7 +325,7 @@ The **most thorough** variant. Produces the most exhaustive, complete version of
 <tr>
 <td width="50%" valign="top">
 
-### <a href="AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer%20-%20Precision%20and%20Clarity.md">Precision and Clarity</a>
+### <a href="Universal/Universal%20Enhancer%20-%20Precision%20and%20Clarity.md">Precision and Clarity</a>
 
 **Eliminates ambiguity.** Sharpens vague prompts into clean, unambiguous instructions. Resolves every source of misinterpretation.
 
@@ -334,7 +334,7 @@ The **most thorough** variant. Produces the most exhaustive, complete version of
 </td>
 <td width="50%" valign="top">
 
-### <a href="AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer%20-%20Deep%20Contextual%20Expansion.md">Deep Contextual Expansion</a>
+### <a href="Universal/Universal%20Enhancer%20-%20Deep%20Contextual%20Expansion.md">Deep Contextual Expansion</a>
 
 **Adds context.** Enriches prompts with surrounding context, ecosystem, stakeholder analysis, and downstream implications.
 
@@ -345,7 +345,7 @@ The **most thorough** variant. Produces the most exhaustive, complete version of
 <tr>
 <td width="50%" valign="top">
 
-### <a href="AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer%20-%20Expert-Level%20Comprehensive.md">Expert-Level Comprehensive</a>
+### <a href="Universal/Universal%20Enhancer%20-%20Expert-Level%20Comprehensive.md">Expert-Level Comprehensive</a>
 
 **Applies expert judgment.** Combines thoroughness with professional reasoning. Thinks like a senior practitioner.
 
@@ -354,7 +354,7 @@ The **most thorough** variant. Produces the most exhaustive, complete version of
 </td>
 <td width="50%" valign="top">
 
-### <a href="AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer%20-%20Creative%20Divergent.md">Creative Divergent</a>
+### <a href="Universal/Universal%20Enhancer%20-%20Creative%20Divergent.md">Creative Divergent</a>
 
 **Unlocks creativity.** Explores unconventional angles, subverts expectations, and finds original approaches.
 
@@ -381,7 +381,7 @@ Not sure where to start?
    Specific domain? ───────→ Browse by category below
 ```
 
-**Still not sure?** Open the [Universal Enhancer](AI%20PROMPT%20ENHANCER/Universal/Universal%20Enhancer.md) — it works for almost everything.
+**Still not sure?** Open the [Universal Enhancer](Universal/Universal%20Enhancer.md) — it works for almost everything.
 
 ---
 
@@ -448,7 +448,7 @@ Fork → Create Branch → Add Your Enhancer → Pull Request
    ```bash
    git checkout -b add-my-enhancer
    ```
-3. **Choose the right category** under `AI PROMPT ENHANCER/`
+3. **Choose the right category** from the folders above
 4. **Create your enhancer** as a `.md` file following the [file format](CONTRIBUTING.md)
 5. **Open a Pull Request** with a description of what your enhancer does
 
@@ -515,35 +515,33 @@ No packages. No config. No dependencies. Just prompts.
 ## Repository Structure
 
 ```
-AI-Prompt-Engineer/
+AI-Prompts-Vault/
 │
 ├── README.md                              ← You are here
 ├── CONTRIBUTING.md                        ← How to contribute
 ├── LICENSE                                ← MIT License
 │
-└── AI PROMPT ENHANCER/
-    │
-    ├── Universal/                         ← Start here
-    │   ├── Universal Enhancer.md
-    │   ├── Universal Enhancer - Maximum Detail.md
-    │   ├── Universal Enhancer - Precision and Clarity.md
-    │   ├── Universal Enhancer - Deep Contextual Expansion.md
-    │   ├── Universal Enhancer - Expert-Level Comprehensive.md
-    │   └── Universal Enhancer - Creative Divergent.md
-    │
-    ├── Coding and Development/            ← 15 enhancers
-    ├── Writing and Content/               ← 15 enhancers
-    ├── Research and Analysis/             ← 12 enhancers
-    ├── Image Generation and Creative/     ← 12 enhancers
-    ├── Business and Strategy/             ← 12 enhancers
-    ├── Education and Learning/            ← 10 enhancers
-    ├── Productivity and Planning/         ← 10 enhancers
-    ├── Technical and Engineering/         ← 10 enhancers
-    ├── Data and Analytics/                ← 10 enhancers
-    ├── AI and Machine Learning/           ← 8 enhancers
-    ├── Health and Science/                ← 8 enhancers
-    ├── Marketing and SEO/                 ← 8 enhancers
-    └── Legal and Compliance/              ← 6 enhancers
+├── Universal/                             ← Start here
+│   ├── Universal Enhancer.md
+│   ├── Universal Enhancer - Maximum Detail.md
+│   ├── Universal Enhancer - Precision and Clarity.md
+│   ├── Universal Enhancer - Deep Contextual Expansion.md
+│   ├── Universal Enhancer - Expert-Level Comprehensive.md
+│   └── Universal Enhancer - Creative Divergent.md
+│
+├── Coding and Development/            ← 15 enhancers
+├── Writing and Content/               ← 15 enhancers
+├── Research and Analysis/             ← 12 enhancers
+├── Image Generation and Creative/     ← 12 enhancers
+├── Business and Strategy/             ← 12 enhancers
+├── Education and Learning/            ← 10 enhancers
+├── Productivity and Planning/         ← 10 enhancers
+├── Technical and Engineering/         ← 10 enhancers
+├── Data and Analytics/                ← 10 enhancers
+├── AI and Machine Learning/           ← 8 enhancers
+├── Health and Science/                ← 8 enhancers
+├── Marketing and SEO/                 ← 8 enhancers
+└── Legal and Compliance/              ← 6 enhancers
 ```
 
 ---

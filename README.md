@@ -1,7 +1,7 @@
 <h1 align="center">AI Prompts Vault</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Enhancers-142-blue?style=for-the-badge" alt="142 Enhancers">
+  <img src="https://img.shields.io/badge/Prompt%20Enhancers-162-blue?style=for-the-badge" alt="162 Enhancers">
   <img src="https://img.shields.io/badge/Categories-14-green?style=for-the-badge" alt="14 Categories">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
   <img src="https://img.shields.io/badge/Open%20Source-Always-brightgreen?style=for-the-badge" alt="Open Source">
@@ -279,21 +279,21 @@ NEGATIVE: Exclude [e.g., "flying cars, dystopian pollution, overcrowded streets"
 | Category | Description | Enhancers |
 |----------|-------------|:---------:|
 | [**Universal**](Universal/) | Domain-adaptive enhancers that work across any task | **6** |
-| [**Coding & Development**](Coding%20and%20Development/) | Web apps, APIs, databases, DevOps, mobile, security, code quality | **15** |
-| [**Writing & Content**](Writing%20and%20Content/) | Blog posts, copywriting, technical writing, scripts, emails | **15** |
-| [**Research & Analysis**](Research%20and%20Analysis/) | Literature reviews, market research, competitive analysis, trends | **12** |
-| [**Image Generation & Creative**](Image%20Generation%20and%20Creative/) | Photorealism, digital art, logos, characters, film, UI design | **12** |
-| [**Business & Strategy**](Business%20and%20Strategy/) | Business plans, pitch decks, fundraising, competitive analysis | **12** |
-| [**Education & Learning**](Education%20and%20Learning/) | Course design, tutoring, assessments, workshops, skill development | **10** |
-| [**Productivity & Planning**](Productivity%20and%20Planning/) | Project planning, goal setting, workflows, sprints, roadmaps | **10** |
-| [**Technical & Engineering**](Technical%20and%20Engineering/) | Systems, cloud, IoT, infrastructure, CI/CD, monitoring | **10** |
-| [**Data & Analytics**](Data%20and%20Analytics/) | Pipelines, dashboards, SQL, ETL, A/B testing, BI | **10** |
-| [**AI & Machine Learning**](AI%20and%20Machine%20Learning/) | ML models, LLM apps, NLP, MLOps, AI ethics, research | **8** |
-| [**Health & Science**](Health%20and%20Science/) | Clinical research, medical writing, public health, biotech | **8** |
-| [**Marketing & SEO**](Marketing%20and%20SEO/) | SEO, ad copy, email marketing, landing pages, branding | **8** |
-| [**Legal & Compliance**](Legal%20and%20Compliance/) | Contracts, compliance, privacy, IP, regulatory filings | **6** |
+| [**Coding & Development**](Coding%20and%20Development/) | Web apps, APIs, databases, DevOps, mobile, security, code quality | **18** |
+| [**Writing & Content**](Writing%20and%20Content/) | Blog posts, copywriting, technical writing, scripts, emails | **18** |
+| [**Research & Analysis**](Research%20and%20Analysis/) | Literature reviews, market research, competitive analysis, trends | **14** |
+| [**Image Generation & Creative**](Image%20Generation%20and%20Creative/) | Photorealism, digital art, logos, characters, film, UI design | **14** |
+| [**Business & Strategy**](Business%20and%20Strategy/) | Business plans, pitch decks, fundraising, competitive analysis | **14** |
+| [**Education & Learning**](Education%20and%20Learning/) | Course design, tutoring, assessments, workshops, skill development | **11** |
+| [**Productivity & Planning**](Productivity%20and%20Planning/) | Project planning, goal setting, workflows, sprints, roadmaps | **11** |
+| [**Technical & Engineering**](Technical%20and%20Engineering/) | Systems, cloud, IoT, infrastructure, CI/CD, monitoring | **11** |
+| [**Data & Analytics**](Data%20and%20Analytics/) | Pipelines, dashboards, SQL, ETL, A/B testing, BI | **11** |
+| [**AI & Machine Learning**](AI%20and%20Machine%20Learning/) | ML models, LLM apps, NLP, MLOps, AI ethics, research | **9** |
+| [**Health & Science**](Health%20and%20Science/) | Clinical research, medical writing, public health, biotech | **9** |
+| [**Marketing & SEO**](Marketing%20and%20SEO/) | SEO, ad copy, email marketing, landing pages, branding | **9** |
+| [**Legal & Compliance**](Legal%20and%20Compliance/) | Contracts, compliance, privacy, IP, regulatory filings | **7** |
 
-### Total: 142 Prompt Enhancers
+### Total: 162 Prompt Enhancers
 
 ---
 
@@ -529,19 +529,19 @@ AI-Prompts-Vault/
 │   ├── Universal Enhancer - Expert-Level Comprehensive.md
 │   └── Universal Enhancer - Creative Divergent.md
 │
-├── Coding and Development/            ← 15 enhancers
-├── Writing and Content/               ← 15 enhancers
-├── Research and Analysis/             ← 12 enhancers
-├── Image Generation and Creative/     ← 12 enhancers
-├── Business and Strategy/             ← 12 enhancers
-├── Education and Learning/            ← 10 enhancers
-├── Productivity and Planning/         ← 10 enhancers
-├── Technical and Engineering/         ← 10 enhancers
-├── Data and Analytics/                ← 10 enhancers
-├── AI and Machine Learning/           ← 8 enhancers
-├── Health and Science/                ← 8 enhancers
-├── Marketing and SEO/                 ← 8 enhancers
-└── Legal and Compliance/              ← 6 enhancers
+├── Coding and Development/            ← 18 enhancers
+├── Writing and Content/               ← 18 enhancers
+├── Research and Analysis/             ← 14 enhancers
+├── Image Generation and Creative/     ← 14 enhancers
+├── Business and Strategy/             ← 14 enhancers
+├── Education and Learning/            ← 11 enhancers
+├── Productivity and Planning/         ← 11 enhancers
+├── Technical and Engineering/         ← 11 enhancers
+├── Data and Analytics/                ← 11 enhancers
+├── AI and Machine Learning/           ← 9 enhancers
+├── Health and Science/                ← 9 enhancers
+├── Marketing and SEO/                 ← 9 enhancers
+└── Legal and Compliance/              ← 7 enhancers
 ```
 
 ---
